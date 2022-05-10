@@ -12,7 +12,7 @@ namespace LocalBusPassMvcCore.Controllers
     [Route("adminhome")]
     public class AdminHomeController : Controller
     {
-        RestClient client = new RestClient("http://localhost:13790/api");
+        RestClient client = new RestClient("http://localhost:8995/api");
         AdminServices adminServices = new AdminServices();
         public IActionResult Index()
         {

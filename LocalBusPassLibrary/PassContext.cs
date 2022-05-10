@@ -12,7 +12,7 @@ namespace LocalBussPassLibrary
         protected override void OnConfiguring
             (DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Integrated Security = SSPI; Server =DESKTOP-51COMKG\SQLEXPRESS02; DataBase  = BusPassGenrationDb");
+            optionsBuilder.UseSqlServer(@"Integrated Security = SSPI; Server =DESKTOP-51COMKG\SQLEXPRESS02; DataBase = BusPassGeneratorDb");
         }
     }
 }

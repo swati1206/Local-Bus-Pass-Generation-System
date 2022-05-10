@@ -1,0 +1,15 @@
+C:\Users\swati\Desktop\Git\Sprint Project\Local Bus Pass Generation System\LocalBusPassLibrary\bin\Debug\net5.0\LocalBusPassLibrary.deps.json
+C:\Users\swati\Desktop\Git\Sprint Project\Local Bus Pass Generation System\LocalBusPassLibrary\bin\Debug\net5.0\LocalBusPassLibrary.runtimeconfig.json
+C:\Users\swati\Desktop\Git\Sprint Project\Local Bus Pass Generation System\LocalBusPassLibrary\bin\Debug\net5.0\LocalBusPassLibrary.runtimeconfig.dev.json
+C:\Users\swati\Desktop\Git\Sprint Project\Local Bus Pass Generation System\LocalBusPassLibrary\bin\Debug\net5.0\LocalBusPassLibrary.dll
+C:\Users\swati\Desktop\Git\Sprint Project\Local Bus Pass Generation System\LocalBusPassLibrary\bin\Debug\net5.0\LocalBusPassLibrary.pdb
+C:\Users\swati\Desktop\Git\Sprint Project\Local Bus Pass Generation System\LocalBusPassLibrary\obj\Debug\net5.0\LocalBusPassLibrary.csproj.AssemblyReference.cache
+C:\Users\swati\Desktop\Git\Sprint Project\Local Bus Pass Generation System\LocalBusPassLibrary\obj\Debug\net5.0\LocalBusPassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swati\Desktop\Git\Sprint Project\Local Bus Pass Generation System\LocalBusPassLibrary\obj\Debug\net5.0\LocalBusPassLibrary.AssemblyInfoInputs.cache
+C:\Users\swati\Desktop\Git\Sprint Project\Local Bus Pass Generation System\LocalBusPassLibrary\obj\Debug\net5.0\LocalBusPassLibrary.AssemblyInfo.cs
+C:\Users\swati\Desktop\Git\Sprint Project\Local Bus Pass Generation System\LocalBusPassLibrary\obj\Debug\net5.0\LocalBusPassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\swati\Desktop\Git\Sprint Project\Local Bus Pass Generation System\LocalBusPassLibrary\obj\Debug\net5.0\LocalBusPassLibrary.dll
+C:\Users\swati\Desktop\Git\Sprint Project\Local Bus Pass Generation System\LocalBusPassLibrary\obj\Debug\net5.0\refint\LocalBusPassLibrary.dll
+C:\Users\swati\Desktop\Git\Sprint Project\Local Bus Pass Generation System\LocalBusPassLibrary\obj\Debug\net5.0\LocalBusPassLibrary.pdb
+C:\Users\swati\Desktop\Git\Sprint Project\Local Bus Pass Generation System\LocalBusPassLibrary\obj\Debug\net5.0\LocalBusPassLibrary.genruntimeconfig.cache
+C:\Users\swati\Desktop\Git\Sprint Project\Local Bus Pass Generation System\LocalBusPassLibrary\obj\Debug\net5.0\ref\LocalBusPassLibrary.dll

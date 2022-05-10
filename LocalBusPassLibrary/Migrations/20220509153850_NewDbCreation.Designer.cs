@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace LocalBusPassLibrary.Migrations
 {
     [DbContext(typeof(PassContext))]
-    [Migration("20220509064024_NewDbCreation")]
+    [Migration("20220509153850_NewDbCreation")]
     partial class NewDbCreation
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

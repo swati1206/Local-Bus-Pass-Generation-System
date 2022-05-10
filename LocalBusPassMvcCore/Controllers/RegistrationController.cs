@@ -13,7 +13,7 @@ namespace LocalBusPassMvcCore.Controllers
     [Route("registration")]
     public class RegistrationController : Controller
     {
-        RestClient client = new RestClient("http://localhost:13790/api");
+        RestClient client = new RestClient("http://localhost:8995/api");
         public IActionResult Index()
         {
             return View();

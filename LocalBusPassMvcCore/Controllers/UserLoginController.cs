@@ -14,7 +14,7 @@ namespace LocalBusPassMvcCore.Controllers
     [Route("userlogin")]
     public class UserLoginController : Controller
     {
-        RestClient client = new RestClient("http://localhost:13790/api");
+        RestClient client = new RestClient("http://localhost:8995/api");
 
         [HttpGet]
         public IActionResult Index()
